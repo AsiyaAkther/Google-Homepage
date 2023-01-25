@@ -131,3 +131,123 @@ section .footer .row ul li a{
     color: #5f6368;
     margin-right: 25px;
 }
+
+/* Responsive Start */
+@media (max-width: 768px) {
+    body{
+        width: 100%;
+    }
+    section .main .search_box{
+        width: 90%;
+    }
+    section .main{
+        width: 100%;
+    }
+    section .footer .row ul{
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive End */
